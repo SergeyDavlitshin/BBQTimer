@@ -1,0 +1,20 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# macOS
+.DS_Store
+
+# SwiftPM
+.swiftpm/
+.build/
+
+# Logs
+*.log
+
+# Personal
+*.env
